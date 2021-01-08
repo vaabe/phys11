@@ -1,2 +1,3 @@
 # phys11
-Material for PHYS-UA 11 (mechanics)
+
+Some course material and preliminary demos. 
