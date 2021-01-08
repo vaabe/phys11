@@ -1,0 +1,7 @@
+setup, temperature_C, pressure_kPa, pressure_psi
+01_room_temperature, 24.5, 1.05, 15.0
+02_water_and_ice, 0.5, 0.95, 13.5
+03_dry_ice_and_alcohol, -62.0, 0.72, 10.5
+04_liquid_nitrogen, -196.0, 0.27, 4.0
+05_boiling_water, 100.0, 1.26, 18.5
+
