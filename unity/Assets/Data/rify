@@ -1,4 +1,0 @@
-#!/bin/sh
-
-Rscript data.R
-Rscript graphics.R
