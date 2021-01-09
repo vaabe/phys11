@@ -1,6 +1,6 @@
 # phys11
 
-Some course material and (preliminary) demos. 
+Some course material and lab demos. 
 
 ![](./gpdemos/Media/centripetal-circular-motion.png)
 
