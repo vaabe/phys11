@@ -25,4 +25,4 @@ Some experimental course material.
 ![](./gpdemos/Media/human-arm-gravity.png)
 
 [1]: mailto:vabe@nyu.edu
-[2]: https://github.com/vaabe/phys12/blob/main/info/syllabus.pdf
+[2]: https://github.com/vaabe/phys11/blob/main/info/syllabus.pdf
