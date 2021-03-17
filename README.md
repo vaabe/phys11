@@ -2,9 +2,9 @@
 
 Some experimental course material. 
 
-- Email: [vabe@nyu.edu](mailto:vabe@nyu.edu)
-- [Syllabus](https://github.com/vaabe/phys12/blob/main/info/syllabus.pdf)
-- [Dropbox](https://www.dropbox.com/sh/0wpkybfyt7anajn/AAA3nMDkRIC0Ymietxrakoqya?dl=0)
+- [vabe@nyu.edu][1]
+- [Syllabus][2]
+- [Dropbox][3]
 
 | Date | Lab |
 | --- | --- |
@@ -24,3 +24,6 @@ Some experimental course material.
 ![](./gpdemos/Media/centripetal-circular-motion.png)
 
 ![](./gpdemos/Media/human-arm-gravity.png)
+
+[1](mailto:vabe@nyu.edu)
+[2](https://github.com/vaabe/phys12/blob/main/info/syllabus.pdf)
