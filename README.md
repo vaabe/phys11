@@ -4,7 +4,6 @@ Some experimental course material.
 
 - [vabe@nyu.edu][1]
 - [Syllabus][2]
-- [Dropbox][3]
 
 | Date | Lab |
 | --- | --- |
@@ -25,5 +24,5 @@ Some experimental course material.
 
 ![](./gpdemos/Media/human-arm-gravity.png)
 
-[1](mailto:vabe@nyu.edu)
-[2](https://github.com/vaabe/phys12/blob/main/info/syllabus.pdf)
+[1]: mailto:vabe@nyu.edu
+[2]: https://github.com/vaabe/phys12/blob/main/info/syllabus.pdf
